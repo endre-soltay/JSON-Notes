@@ -1,0 +1,5 @@
+Serialization = Covert .net objects into JSON data
+
+Deserialization = Convert JSON data into .net objects
+
+
